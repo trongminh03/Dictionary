@@ -1,0 +1,15 @@
+.button-audio {
+    -fx-graphic: url("../img/normal/audio.png");
+}
+
+.button-edit {
+    -fx-graphic: url("../img/normal/edit_color.png");
+}
+
+.button-delete {
+    -fx-graphic: url("../img/normal/delete_blue.png");
+}
+
+.button-bookmark {
+    -fx-graphic: url("../img/normal/bookmark-icon.png");
+}

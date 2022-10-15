@@ -1,0 +1,15 @@
+.button-search {
+    -fx-graphic: url("../img/normal/search.png");
+}
+
+.button-add {
+    -fx-graphic: url("../img/normal/add.png");
+}
+
+.button-bookmark {
+    -fx-graphic: url("../img/normal/bookmark.png");
+}
+
+.button-google {
+    -fx-graphic: url("../img/normal/google.png");
+}

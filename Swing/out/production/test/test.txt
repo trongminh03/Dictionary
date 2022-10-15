@@ -1,0 +1,997 @@
+– able: (adj)    /ˈeibəl/    có năng lực, có tài
+– abandon: (v)   /əˈbæn.dən/ bỏ, từ bỏ
+– about: (adv)   /əˈbaʊt/    khoảng, về
+– above: (adv)   /əˈbʌv/ ở trên, lên trên
+– act: (n, v)    /ækt/   hành động, hành vi, cử chỉ, đối xử
+– add: (v)   /æd/    cộng, thêm vào
+– afraid: (adj)  /əˈfreɪd/   sợ, sợ hãi, hoảng sợ
+– after: (adv)   /ˈɑːf.tər/  sau, đằng sau, sau khi
+– again: (adv)   /əˈɡen/ lại, nữa, lần nữa
+– against: (prep)    /əˈɡenst/   chống lại, phản đối
+– age: (n)   /eɪdʒ/  tuổi
+– ago: (adv) /əˈɡəʊ/ trước đây
+– agree: (v) /əˈɡriː/    đồng ý, tán thành
+– air: (n)   /eər/   không khí, bầu không khí, không gian
+– all: (det, pron, adv)  /ɔːl/   tất cả
+– allow: (v) /əˈlaʊ/ cho phép, để cho
+– also: (adv)    /ˈɔːl.səʊ/  cũng, cũng vậy, cũng thế
+– always: (adv)  /ˈɔːl.weɪz/ luôn luôn
+– among: (prep)  /əˈmʌŋ/ giữa, ở giữa
+– and: (conj)    /ænd/   và
+– anger: (n) /ˈæŋ.ɡər/   sự tức giận, sự giận dữ
+– animal: (n)    /ˈæn.ɪ.məl/ động vật, thú vật
+– answer: (n, v) /ˈɑːn.sər/  sự trả lời; trả lời
+– any: (det, pron, adv)  /ˈen.i/ một người, vật nào đó; bất cứ; một chút nào, tí nào
+– appear: (v)    /əˈpɪər/    xuất hiện, hiện ra, trình diện
+– apple: (n) /ˈæp.əl/    quả táo
+– are:   /ɑːr/   chúng tôi
+– area: (n)  /ˈeə.ri.ə/  diện tích, bề mặt
+– arm: (n, v)    /ɑːm/   cánh tay; vũ trang, trang bị (vũ khí)
+– arrange: (v)   /əˈreɪndʒ/  sắp xếp, sắp đặt, sửa soạn
+– arrive: (v +at, in)   /əˈraɪv/    đến, tới nơi
+– art: (n)   /ɑːt/   nghệ thuật, mỹ thuật
+– as: (prep, adv, conj)  /æz/    như (as you know…)
+– ask: (v)   /ɑːsk/  hỏi
+– at: (prep) /æt/    ở tại (chỉ vị trí)
+– atom: (n)  /ˈæt.əm/    nguyên tử
+– baby: (n)  /ˈbeɪ.bi/   đứa bé mới sinh; trẻ thơ
+– back: (n, adj, adv, v) /bæk/   lưng, về phía sau, trở lại
+– bad: (adj) /bæd/   xấu, tồi
+– ball: (n)  /bɔːl/  quả bóng
+– band: (n)  /bænd/  băng, đai, nẹp
+– bank: (n)  /bæŋk/  bờ (sông…), đê
+– bar: (n)   /bɑːr/  quán bán rượu
+– base: (n, v)   /beɪs/  cơ sở, cơ bản, nền móng; đặt tên, đặt cơ sở trên cái gì
+– basic: (adj)   /ˈbeɪ.sɪk/  cơ bản, cơ sở
+– bat: (n)   /bæt/  (thể dục,thể thao) gậy(đánh bóng chày, crikê);(từ cổ,nghĩa cổ) vợt(quần vợt)
+– be: (v)    /biː/   thì, là
+– bear: (v)  /beər/  mang, cầm, vác, đeo, ôm
+– beat: (n, v)   /biːt/  tiếng đập, sự đập; đánh đập, đấm
+– beauty: (n)    /ˈbjuː.ti/  vẻ đẹp, cái đẹp; người đẹp
+– bed: (n)   /bed/   cái giường
+– been: (v)  /biːn/  thì, là
+– before: (prep, conj, adv)  /bɪˈfɔːr/   trước, đằng trước
+– began: (v) /bɪˈɡæn/    bắt đầu, mở đầu, khởi đầu
+– begin: (v) /bɪˈɡɪn/    bắt đầu, khởi đầu
+– behind: (prep, adv)    /bɪˈhaɪnd/  sau, ở đằng sau
+– believe: (v)   /bɪˈliːv/   tin, tin tưởng
+– bell: (n)  /bel/   cái chuông, tiếng chuông
+– best: (adj)    /best/  tốt nhất
+– better: (adj)  /ˈbet.ər/   tốt hơn
+– between: (prep, adv)   /bɪˈtwiːn/  giữa, ở giữa
+– big: (adj) /bɪɡ/   to, lớn
+– bird: (n)  /bɜːd/  Con chim
+– bit: (n)   /bɪt/   miếng, mảnh
+– black: (adj, n)    /blæk/  đen; màu đen
+– block: (n, v)  /blɒk/  khối, tảng(đá); làm ngăn cản, ngăn chặn
+– blood: (n) /blʌd/  máu, huyết; sự tàn sát, chem giết
+– blow: (v, n)   /bləʊ/  nở hoa; sự nở hoa
+– blue: (adj, n) /bluː/  xanh, màu xanh
+– board: (n, v)  /bɔːd/  tấm ván; lát ván, lót ván
+– boat: (n)  /bəʊt/  tàu, thuyền
+– body: (n)  /ˈbɒd.i/    thân thể, thân xác
+– bone: (n)  /bəʊn/  xương
+– book: (n, v)   /bʊk/   sách; ghi chép
+– born: (v)  /bɔːn/  sinh, đẻ
+– both: (det, pron)  /bəʊθ/  cả hai
+– bottom: (n, adj)   /ˈbɒt.əm/   phần dưới cùng, thấp nhất; cuối, cuối cùng
+– bought: (v)    /bɔːt/  mua
+– box: (n)   /bɒks/  hộp, thùng
+– boy: (n)   /bɔɪ/   con trai, thiếu niên
+– branch: (n)    /brɑːntʃ/   ngành; nhành cây, nhánh song, ngả đường
+– bread: (n) /bred/  bánh mỳ
+– break: (v, n)  /breɪk/ bẻ gãy, đập vỡ; sự gãy, sự vỡ
+– bright: (adj)  /braɪt/ sáng, sáng chói
+– bring: (v) /brɪŋ/  mang, cầm, xách lại
+– broad: (adj)   /brɔːd/ rộng
+– broke: (v) /brəʊk/ khánh kiệt, túng quẫn, bần cùng
+– brother: (n)   /ˈbrʌð.ər/  anh, em trai
+– brought: (v)   /brɔːt/ cầm lại, đem lại, mang lại, xách lại, đưa lại
+– brown: (adj, n)    /braʊn/ nâu, màu nâu
+– build: (v) /bɪld/  xây dựng
+– burn: (v)  /bɜːn/  đốt, đốt cháy, thắp, nung, thiêu
+– busy: (adj)    /ˈbɪz.i/    bận, bận rộn
+– but: (conj)    /bʌt/   nhưng
+– buy: (v)   /baɪ/   mua
+– by: (prep, adv)    /baɪ/   bởi, bằng
+– call: (v, n)   /kɔːl/  gọi; tiếng kêu, tiếng gọi
+– came: (v)  /keɪm/  khung chì (để) lắp kinh (cửa)
+– camp: (n, v)   /kæmp/  trại, chỗ cắm trại; cắm trại, hạ trại
+– can: (modal v, n)  /kæn/   có thể; nhà tù, nhà giam, bình, ca đựng
+– capital: (n, adj)  /ˈkæp.ɪ.təl/    thủ đô, tiền vốn; chủ yếu, chính yếu, cơ bản
+– captain: (n)   /ˈkæp.tɪn/  người cầm đầu, người chỉ huy, thủ lĩnh
+– car: (n)   /kɑːr/  xe hơi
+– card: (n)  /kɑːd/  thẻ, thiếp
+– care: (n, v)   /keər/  sự chăm sóc, chăm nom; chăm sóc
+– carry: (v) /ˈkær.i/    mang, vác, khuân chở
+– case: (n)  /keɪs/  vỏ, ngăn, túi
+– cat: (n)   /kæt/   con mèo
+– catch: (v) /kætʃ/  bắt lấy, nắm lấy, tóm lấy, chộp lấy
+– caught: (v)    /kɔːt/  sự bắt, sự nắm lấy; cái bắt, cái vồ, cái chộp
+– cause: (n, v)  /kɔːz/  nguyên nhân, nguyên do; gây ra, gây nên
+– cell: (n)  /sel/   ô, ngăn
+– cent: (n)  /sent/  đồng xu(=1/100 đô la)
+– center: (từ Mỹ,nghĩa Mỹ)   /ˈsen.tər/ (như) centre
+– century: (n)   /ˈsen.tʃər.i/   thế kỷ
+– certain: (adj, pron)   /ˈsɜː.tən/  chắc chắn
+– chair: (n) /tʃeər/ ghế
+– chance: (n)    /tʃɑ:ns/    sự may mắn
+– change: (v, n) /tʃeɪndʒ/   thay đổi, sự thay đổi, sự biến đổi
+– character: (n) /ˈkær.ək.tər/   tính cách, đặc tính, nhân vật
+– charge: (n, v) /tʃɑːdʒ/    nhiệm vụ, bổn phận, trách nhiệm; giao nhiệm vụ, giao việc
+– chart: (n, v)  /tʃɑːt/ đồ thị, biểu đồ; vẽ đồ thị, lập biểu đồ
+– check: (v, n)  /tʃek/  kiểm tra; sự kiểm tra
+– chick: (n) /tʃɪk/  gà con; chim con
+– chief: (adj, n)    /tʃiːf/ trọng yếu, chính yếu; thủ lĩnh, lãnh tụ, người đứng đầu, xếp
+– child: (n) /tʃaɪld/    đứa bé, đứa trẻ
+– children: (n)  /ˈtʃɪl.drən/    đứa bé, đứa trẻ
+– choose: (v)    /tʃuːz/ chọn, lựa chọn
+– chord: /kɔːd/  (thơ ca) dây(đàn hạc)
+– circle: (n)    /ˈsɜː.kəl/  đường tròn, hình tròn
+– city: (n)  /ˈsɪt.i/    thành phố
+– claim: (v, n)  /kleɪm/ đòi hỏi, yêu sách; sự đòi hỏi, sự yêu sách, sự thỉnh cầu
+– class: (n) /klɑːs/ lớp học
+– clean: (adj, v)    /kliːn/ sạch, sạch sẽ
+– clear: (adj, v)    /klɪər/ lau chùi, quét dọn
+– climb: (v) /klaɪm/ leo, trèo
+– clock: (n) /klɒk/  đồng hồ
+– close: (adj, v)    /kləʊz/ đóng kín, chật chội, che đậy, đóng, khép, kết thúc, chấm dứt
+– clothe:    /kləʊð/ mặc quần áo cho
+– cloud: (n) /klaʊd/ mây, đám mây
+– coast: (n) /kəʊst/ sự lao dốc; bờ biển
+– coat: (n)  /kəʊt/  áo choàng
+– cold: (adj, n) /kəʊld/ lạnh, sự lạnh lẽo, lạnh nhạt
+– collect: (v)   /kəˈlekt/   sưu tập, tập trung lại
+– colony: (n)    /ˈkɒl.ə.ni/ thuộc địa
+– color: (n) /ˈkʌl.ər/  (như) colour
+– column: (n)    /ˈkɒl.əm/   cột, mục(báo)
+– come: (v)  /kʌm/   đến, tới, đi đến, đi tới
+– common: (adj)  /ˈkɒm.ən/   công, công cộng, thông thường, phổ biến
+– company: (n)   /ˈkʌm.pə.ni/    công ty
+– compare: (v)   /kəmˈpeər/  so sánh, đối chiếu
+– complete: (adj, v) /kəmˈpliːt/ hoàn thành, xong
+– condition: (n) /kənˈdɪʃ.ən/    điều kiện, tình cảnh, tình thế
+– connect: (v)   /kəˈnekt/   kết nối, nối
+– consider: (v)  /kənˈsɪd.ər/    cân nhắc, xem xét; để ý, quan tâm, lưu ý đến
+– consonant: /ˈkɒn.sə.nənt/  (âm nhạc) thuận tai, êm ái, du dương
+– contain: (v)   /kənˈteɪn/  bao hàm, chứa đựng, bao gồm
+– continent: (n) /ˈkɒn.tɪ.nənt/  lục địa, đại lục (lục địa Bắc Mỹ)
+– continue: (v)  /kənˈtɪn.juː/   tiếp tục, làm tiếp
+– control: (n, v)    /kənˈtrəʊl/ sự điều khiển, quyền hành, quyền lực, quyền chỉ huy
+– cook: (v, n)   /kʊk/   nấu ăn, người nấu ăn
+– cool: (adj, v) /kuːl/  mát mẻ, điềm tĩnh; làm mát
+– copy: (n, v)   /ˈkɒp.i/    bản sao, bản chép lại; sự sao chép; sao chép, bắt chước
+– corn:  /kɔːn/  hai (chân)
+– corner: (n)    /ˈkɔː.nər/  góc(tường, nhà, phố…)
+– correct: (adj, v)  /kəˈrekt/   đúng, chính xác; sửa, sửa chữa
+– cost: (n, v)   /kɒst/  giá, chi phí; trả giá, phải trả
+– cotton: (n)    /ˈkɒt.ən/   bông, chỉ, sợi
+– could: (v) /kʊd/   có thể, có khả năng
+– count: (v) /kaʊnt/ đếm, tính
+– country: (n)   /ˈkʌn.tri/  nước, quốc gia, đất nước
+– course: (n)    /kɔːs/  tiến trình, quá trình diễn tiến; sân chạy đua
+– cover: (v, n)  /ˈkʌv.ər/   bao bọc, che phủ; vỏ, vỏ bọc
+– cow: (n)   /kaʊ/   con bò cái
+– crease:    /kriːs/ nếp nhăn, nếp gấp
+– create: (v)    /kriˈeɪt/   sáng tạo, tạo nên
+– crop: (n)  /krɒp/  vụ mùa
+– cross: (n, v)  /krɒs/  cây Thánh Giá, nỗi thống khổ; sự băng qua; băng qua, vượt qua
+– crowd: (n) /kraʊd/ đám đông
+– cry: (v, n)    /kraɪ/  khóc, kêu la; sự khóc, tiếng khóc, sự kêu la
+– current: (adj, n)  /ˈkʌr.ənt/  hiện hành, phổ biến, hiện nay; dòng (nước), luống (gió)
+– cut: (v, n)    /kʌt/   cắt, chặt; sự cắt
+– dad: (n)   /dæd/   bố, cha
+– dance: (n, v)  /dɑːns/ sự nhảy múa, sự khiêu vũ; nhảy múa, khiêu vũ
+– danger: (n)    /ˈdeɪn.dʒər/    sự nguy hiểm, mối hiểm nghèo; nguy cơ, mối đe dọa
+– dark: (adj, n) /dɑːk/  tối, tối tăm; bóng tối, ám muội
+– day: (n)   /deɪ/   ngày, ban ngày
+– dead: (adj)    /ded/   chết, tắt
+– deal: (v, n)   /diːl/  phân phát, phân phối; sự giao dịch, thỏa thuận mua bán
+– dear: (adj)    /dɪər/  thân, thân yêu, thân mến; kính thưa, thưa
+– death: (n) /deθ/   sự chết, cái chết
+– decide: (v)    /dɪˈsaɪd/   quyết định, giải quyết, phân xử
+– decimal:   /ˈdes.ɪ.məl/   (toán học) thập phân
+– deep: (adj, adv)   /diːp/  sâu, khó lường, bí ẩn
+– degree: (n)    /dɪˈɡriː/   mức độ, trình độ; bằng cấp; độ
+– depend: (+ on, upon)   /dɪˈpend/   phụ thuộc, tuỳ thuộc, tuỳ thuộc
+– describe: (v)  /dɪˈskraɪb/ diễn tả, miêu tả, mô tả
+– desert: (n, v) /ˈdez.ət/   sa mạc; công lao, giá trị; rời bỏ, bỏ trốn
+– design: (n, v) /dɪˈzaɪn/   sự thiết kế, kế hoạch, đề cương. phác thảo; phác họa, thiết kế
+– determine: (v) /dɪˈtɜː.mɪn/    xác định, định rõ; quyết định
+– develop: (v)   /dɪˈvel.əp/ phát triển, mở rộng; trình bày, bày tỏ
+– dictionary: (n)    /ˈdɪk.ʃən.ər.i/ từ điển
+– die: (v)   /daɪ/   chết, từ trần, hy sinh
+– differ: (thường + from)  /ˈdɪf.ər/   khác, không giống
+– difficult: (adj)   /ˈdɪf.ɪ.kəlt/   khó, khó khăn, gay go
+– direct: (adj, v)   /daɪˈrekt/  trực tiếp, thẳng, thẳng thắn; gửi, viết cho ai, điều khiển
+– discuss: (v)   /dɪˈskʌs/   thảo luận, tranh luận
+– distant:   /ˈdɪs.tənt/ xa, cách, xa cách
+– divide: (v)    /dɪˈvaɪd/   chia, chia ra, phân ra
+– division: (n)  /dɪˈvɪʒ.ən/ sự chia, sự phân chia, sự phân loại
+– do: (v)    /də/ /du/ /duː/ làm, làm
+– doctor: (n)    /ˈdɒk.tər/  Dr)) bác sĩ y khoa, tiến sĩ
+– does: (v)  /dʌz/   hươu cái, hoãng cái; nai cái
+– dog: (n)   /dɒɡ/   chó
+– dollar: (n)    /ˈdɒl.ər/   đô la Mỹ
+– done:  /dʌn/   xong, hoàn thành, đã thực hiện
+– door: (n)  /dɔːr/  cửa, cửa ra vào
+– double: (adj, det, adv, v) /ˈdʌb.əl/   đôi, hai, kép; cái gấp đôi, lượng gấp đôi; làm gấp đôi
+– down: (adv, prep)  /daʊn/  xuống
+– draw: (v)  /drɔː/  vẽ, kéo
+– dream: (n, v)  /driːm/ giấc mơ, mơ
+– dress: (n, v)  /dres/  Váy liền thân
+– drink: (n, v)  /drɪŋk/ đồ uống; uống
+– drive: (v, n)  /draɪv/ lái, đua xe; cuộc đua xe(điều khiển
+– drop: (v, n)   /drɒp/  chảy nhỏ giọt, rơi, rớt; giọt(nước, máu…);
+– dry: (adj, v)  /draɪ/  khô, cạn; làm khô, sấy khô
+– duck: (n)  /dʌk/   con vịt, vịt cái
+– during: (prep) /ˈdʒʊə.rɪŋ/ trong lúc, trong thời gian
+– each: (det, pron)  /iːtʃ/  mỗi
+– ear: (n)   /ɪər/   tai
+– early: (adj, adv)  /ˈɜː.li/    sớm
+– earth: (n) /ɜːθ/   đất, trái đất
+– ease: (n, v)   /iːz/   sự thanh thản, sự thoải mái; làm thanh thản, làm yên tâm, làm dễ chịu
+– east: (n, adj, adv)    /iːst/  hướng đông, phía đông,(thuộc) đông, ở phía đông
+– eat: (v)   /iːt/   ăn
+– edge: (n)  /edʒ/   lưỡi, cạnh sắc
+– effect: (n)    /ɪˈfekt/    hiệu ứng, hiệu quả, kết quả
+– egg: (n)   /eɡ/    trứng
+– eight: /eɪt/   tám
+– either: (det, pron, adv)   /ˈaɪ.ðər/   mỗi, một; cũng phải thế
+– electric: (adj)    /iˈlek.trɪk/   (thuộc) điện, có điện, phát điện
+– element: (n)   /ˈel.ɪ.mənt/    yếu tố, nguyên tố
+– else: (adv)    /els/   khác, nữa; nếu không
+– end: (n, v)    /end/   giới hạn, sự kết thúc; kết thúc, chấm dứt
+– enemy: (n) /ˈen.ə.mi/  kẻ thù, quân địch
+– energy: (n)    /ˈen.ə.dʒi/ năng lượng, nghị lực, sinh lực
+– engine: (n)    /ˈen.dʒɪn/  máy, động cơ
+– enough: (det, pron, adv)   /ɪˈnʌf/ đủ
+– enter: (v) /ˈen.tər/   đi vào, gia nhập
+– equal: (adj, n, v) /ˈiː.kwəl/  ngang, bằng; người ngang hàng, ngang tài, sức; bằng, ngang
+– equate:    /ɪˈkweɪt/   làm cân bằng, san bằng
+– especially: (adv)  /ɪˈspeʃ.əl.i/   đặc biệt là, nhất là
+– even: (adv, adj)   /ˈiː.vən/   ngay cả, ngay, lại còn; bằng phẳng, điềm đạm, ngang bằng
+– evening: (n)   /ˈiːv.nɪŋ/  buổi chiều, tối
+– event: (n) /ɪˈvent/    sự việc, sự kiện
+– ever: (adv)    /ˈev.ər/    từng, từ trước tới giờ
+– every: (det)   /ˈev.ri/    mỗi, mọi
+– exact: (adj)   /ɪɡˈzækt/   chính xác, đúng
+– example: (n)   /ɪɡˈzɑːm.pəl/   thí dụ, ví dụ
+– except: (prep, conj)   /ɪkˈsept/   trừ ra, không kể; trừ phi
+– excite: (v)    /ɪkˈsaɪt/   kích thích, kích động
+– exercise: (n, v)   /ˈek.sə.saɪz/   bài tập, sự thi hành, sự thực hiện; làm, thi hành, thực hiện
+– expect: (v)    /ɪkˈspekt/  chờ đợi, mong ngóng; liệu trước
+– experience: (n, v) /ɪkˈspɪə.ri.əns/    kinh nghiệm; trải qua, nếm mùi
+– experiment: (n, v) /ɪkˈsper.ɪ.mənt/    cuộc thí nghiệm; thí nghiệm
+– eye: (n)   /aɪ/    mắt
+– face: (n, v)   /feɪs/  mặt, thể diện; đương đầu, đối phó, đối mặt
+– fact: (n)  /fækt/  việc, sự việc, sự kiện
+– fair: (adj)    /feər/  hợp lý, công bằng; thuận lợi
+– fall: (v, n)   /fɔːl/  rơi, ngã, sự rơi, ngã
+– family: (n, adj)   /ˈfæm.əl.i/ gia đình, thuộc gia đình
+– famous: (adj)  /ˈfeɪ.məs/  nổi tiếng
+– far: (adv, adj)    /fɑːr/  xa
+– farm: (n)  /fɑːm/  trang trại
+– fast: (adj, adv)   /fɑːst/ nhanh
+– fat: (adj, n)  /fæt/   béo, béo bở; mỡ, chất béo
+– father: (n)    /ˈfɑː.ðər/  cha(bố)
+– favor: /ˈfeɪ.vər/  thiện ý; sự quý mến
+– fear: (n, v)   /fɪər/  sự sợ hãi, e sợ; sợ, lo ngại
+– feed: (v)  /fiːd/  cho ăn, nuôi
+– feel: (v)  /fiːl/  cảm thấy
+– feet: (n)  /fiːt/  chân, bàn chân(người, thú…)
+– fell: (v)  /fel/   da lông(của thú vật)
+– felt: (v)  /felt/  nỉ, phớt
+– few: (det, adj, pron)  /fjuː/  ít, vài; một ít, một vài
+– field: (n) /fiːld/ cánh đồng, bãi chiến trường
+– fig: (n)   /fɪɡ/  (thực vật học) quả sung; quả vả
+– fight: (v, n)  /faɪt/  đấu tranh, chiến đấu; sự đấu tranh, cuộc chiến đấu
+– figure: (n, v) /ˈfɪɡ.ər/   hình dáng, nhân vật; hình dung, miêu tả
+– fill: (v)  /fɪl/   làm đấy, lấp kín
+– final: (adj, n)    /ˈfaɪ.nəl/  cuối cùng, cuộc đấu chung kết
+– find: (v)  /faɪnd/ tìm, tìm thấy
+– fine: (adj)    /faɪn/  tốt, giỏi
+– finger: (n)    /ˈfɪŋ.ɡər/  ngón tay
+– finish: (v, n) /ˈfɪn.ɪʃ/   kết thúc, hoàn thành; sự kết thúc, phần cuối
+– fire: (n, v)   /faɪər/ lửa; đốt cháy
+– first: (det)   /ˈfɜːst/    thứ nhất, đầu tiên, trước hết; người, vật đầu tiên, thứ nhất
+– fish: (n, v)   /fɪʃ/   cá, món cá; câu cá, bắt cá
+– fit: (v, adj)  /fɪt/   hợp, vừa; thích hợp, xứng đáng
+– five:  /faɪv/  năm
+– flat: (adj, n) /flæt/  bằng phẳng, bẹt, nhẵn; dãy phòng, căn phòng, mặt phẳng
+– floor: (n) /flɔːr/ sàn, tầng(nhà)
+– flow: (n, v)   /fləʊ/  sự chảy; chảy
+– flower: (n)    /flaʊər/    hoa, bông, đóa, cây hoa
+– fly: (v, n)    /flaɪ/  bay; sự bay, quãng đường bay
+– follow: (v)    /ˈfɒl.əʊ/   đi theo sau, theo, tiếp theo
+– food: (n)  /fuːd/  đồ ăn, thức, món ăn
+– foot: (n)  /fʊt/   chân, bàn chân
+– for: (prep)    /fɔːr/  cho, dành cho…
+– force: (n, v)  /fɔːs/  sức mạnh; ép buộc, cưỡng ép
+– forest: (n)    /ˈfɒr.ɪst/  rừng
+– form: (n, v)   /fɔːm/  hình thể, hình dạng, hình thức; làm thành, được tạo thành
+– forward: (adv, adj)    /ˈfɔː.wəd/  về tương lai, sau này ở phía trước, tiến về phía trước; ở phía trước, tiến về phía trước
+– found: (v) /faʊnd/(q.k of find) tìm, tìm thấy
+– four:  /fɔːr/  bốn
+– fraction:  /ˈfræk.ʃən/(toán học) phân số
+– free: (adj, v, adv)    /friː/  miễn phí, tự do, giải phóng, trả tự do
+– fresh: (adj)   /freʃ/  tươi, tươi tắn
+– friend: (n)    /frend/ người bạn
+– from: (prep)   /frɒm/  từ
+– front: (n, adj)    /frʌnt/ mặt; đằng trước, về phía trước
+– fruit: (n) /fruːt/ quả, trái cây
+– full: (adj)    /fʊl/   đầy, đầy đủ
+– fun: (n, adj)  /fʌn/   sự vui đùa, sự vui thích; hài hước
+– game: (n)  /ɡeɪm/  trò chơi
+– garden: (n)    /ˈɡɑː.dən/  vườn
+– gas: (n)   /ɡæs/   khí, hơi đốt
+– gather: (v)    /ˈɡæð.ər/   tập hợp; hái, lượm, thu thập
+– gave: (v)  /ɡeɪv/  cho, biếu, tặng, ban
+– general: (adj) /ˈdʒen.ər.əl/   chung, chung chung; tổng
+– gentle: (adj)  /ˈdʒen.təl/ hiền lành, dịu dàng, nhẹ nhàng
+– get: (v)   /ɡet/   được, có được
+– girl: (n)  /ɡɜːl/  con gái
+– give: (v)  /ɡɪv/   cho, biếu, tặng
+– glad: (adj)    /ɡlæd/  vui lòng, sung sướng
+– glass: (n) /ɡlɑːs/ kính, thủy tinh, cái cốc, ly
+– go: (v)    /ɡəʊ/   đi
+– gold: (n, adj) /ɡəʊld/ vàng; bằng vàng
+– gone:  /ɡɒn/   đã đi, đã đi khỏi; đã trôi qua, đã qua
+– good: (adj, n) /ɡʊd/   tốt, hay, tuyệt; điều tốt, điều thiện
+– got: (v)   /ɡɒt/   có
+– govern: (v)    /ˈɡʌv.ən/   cầm quyền, cai trị
+– grand: (adj)   /ɡrænd/ rộng lớn, vĩ đại
+– grass: (n) /ɡrɑːs/ cỏ; bãi cỏ, đồng cỏ
+– gray: (adj, v, n)  /ɡreɪ/  xám, hoa râm(tóc)
+– great: (adj)   /ɡreɪt/ to, lớn, vĩ đại
+– green: (adj, n)    /ɡriːn/ xanh lá cây
+– grew: (v)  /ɡruː/  mọc, mọc lên(cây cối); mọc mầm, đâm chồi nẩy nở
+– ground: (n)    /ɡraʊnd/    mặt đất, đất, bãi đất
+– group: (n) /ɡruːp/ nhóm
+– grow: (v)  /ɡrəʊ/  mọc, mọc lên
+– guess: (v, n)  /ɡes/   đoán, phỏng đoán; sự đoán, sự ước chừng
+– guide: (n, v)  /ɡaɪd/  điều chỉ dẫn, người hướng dẫn; dẫn đường, chỉ đường
+– gun: (n)   /ɡʌn/   súng
+– had: (v)   /hæd/   có
+– hair: (n)  /heər/  tóc
+– half: (n, det, pron, adv)  /hɑːf/  một nửa, phần chia đôi, nửa giờ; nửa
+– hand: (n, v)   /hænd/  tay, bàn tay; trao tay, truyền cho
+– happen: (v)    /ˈhæp.ən/   xảy ra, xảy đến
+– happy: (adj)   /ˈhæp.i/    vui sướng, hạnh phúc
+– hard: (adj, adv)   /hɑːd/  cứng, rắn, hà khắc; hết sức cố gắng, tích cực
+– has:   /hæz/   có
+– hat: (n)   /hæt/   cái mũ
+– have: (v, auxiliary v) /hæv/   có
+– he: (pron) /hiː/   nó, anh ấy, ông ấy
+– head: (n, v)   /hed/   cái đầu(người thú); chỉ huy, lãnh đại, dẫn đầu
+– hear: (v)  /hɪər/  nghe
+– heard: (v) /hə:d/  nghe
+– heart: (n) /hɑːt/  tim, trái tim
+– heat: (n, v)   /hiːt/  hơi nóng, sức nóng
+– heavy: (adj)   /ˈhev.i/    nặng, nặng nề
+– held: (v)  /held/  khoang(của tàu thuỷ)
+– help: (v, n)   /help/  giúp đỡ; sự giúp đỡ
+– her: (pron, det)   /hɜːr/  nó, chị ấy, cô ấy, bà ấy
+– here: (adv)    /hɪər/  đây, ở đây
+– high: (adj, adv)   /hɪər/  cao, ở mức độ cao
+– hill: (n)  /hɪl/   đồi
+– him: (pron)    /hɪm/   nó, hắn, ông ấy, anh ấy
+– his: (det, pron)   /hɪz/   của nó, của hắn, của ông ấy, của anh ấy; cái của nó, cái của hắn, cái của ông ấy, cái của anh ấy
+– history: (n)   /ˈhɪs.tər.i/    lịch sử, sử học
+– hit: (v, n)    /hɪt/   đánh, đấm, ném trúng; đòn, cú đấm
+– hold: (v, n)   /həʊld/ cầm, nắm, giữ; sự cầm, sự nắm giữ
+– hole: (n)  /həʊl/  lỗ, lỗ trống; hang
+– home: (n, adv) /həʊm/  nhà; ở tại nhà, nước mình
+– hope: (v, n)   /həʊp/  hy vọng; nguồn hy vọng
+– horse: (n) /hɔːs/  ngựa
+– hot: (adj) /hɒt/   nóng, nóng bức
+– hour: (n)  /aʊər/  giờ
+– house: (n) /haʊs/  nhà, căn nhà, toàn nhà
+– how: (adv) /haʊ/   thế nào, như thế nào, làm sao, ra sao
+– huge: (adj)    /hjuːdʒ/    to lớn, khổng lồ
+– human: (adj, n)    /ˈhjuː.mən/(thuộc) con người, loài người
+– hundred:   /ˈhʌn.drəd/ trăm
+– hunt: (v)  /hʌnt/  săn, đi săn
+– hurry: (v, n)  /ˈhʌr.i/    sự vội vàng, sự gấp rút
+– I: (n) /aɪ/    một(chữ số La mã); tôi
+– ice: (n)   /aɪs/   băng, nước đá
+– idea: (n)  /aɪˈdɪə/    ý tưởng, quan niệm
+– if: (conj) /ɪf/    nếu, nếu như
+– imagine: (v)   /ɪˈmædʒ.ɪn/ tưởng tượng, hình dung; tưởng rằng, cho rằng
+– in: (prep, adv)    /ɪn/    ở, tại, trong; vào
+– inch: (n)  /ɪntʃ/  insơ(đơn vị đo chiều dài Anh bằng 2, 54 cm)
+– include: (v)   /ɪnˈkluːd/  bao gồm, tính cả
+– indicate: (v)  /ˈɪn.dɪ.keɪt/   chỉ, cho biết; biểu thị, trình bày ngắn gọn
+– industry: (n)  /ˈɪn.də.stri/   công nghiệp, kỹ nghệ
+– insect: (n)    /ˈɪn.sekt/  sâu bọ, côn trùng
+– instant: (adj) /ˈɪn.stənt/ lúc, chốc lát
+– instrument: (n)    /ˈɪn.strə.mənt/ dụng cụ âm nhạc khí
+– interest: (n, v)   /ˈɪn.trəst/ sự thích thú, sự quan tâm, chú ý; làm quan tâm, làm chú ý
+– invent: (v)    /ɪnˈvent/   phát minh, sáng chế
+– iron: (n, v)   /aɪən/  sắt; bọc sắt
+– is:    /ɪz/    là
+– island: (n)    /ˈaɪ.lənd/  hòn đảo
+– it: (pron, det)    /ɪt/    cái đó, điều đó, con vật đó
+– job: (n)   /dʒɒb/  việc, việc làm
+– join: (v)  /dʒɔɪn/ gia nhập, tham gia; nối, chắp, ghép
+– joy: (n)   /dʒɔɪ/  niềm vui, sự vui mừng
+– jump: (v, n)   /dʒʌmp/ nhảy; sự nhảy, bước nhảy
+– just: (adv)    /dʒʌst/ đúng, vừa đủ; vừa mới, chỉ
+– keep: (v)  /kiːp/  giữ, giữ lại
+– kept: (v)  /kept/  giữ, giữ lại
+– key: (n, adj)  /kiː/   chìa khóa, khóa, thuộc(khóa)
+– kill: (v)  /kɪl/   giết, tiêu diệt
+– kind: (n, adj) /kaɪnd/ loại, giống; tử tế, có lòng tốt
+– king: (n)  /kɪŋ/   vua, quốc vương
+– knew:  /njuː/  biết; hiểu biết
+– know: (v)  /nəʊ/   biết
+– lady: (n)  /ˈleɪ.di/   người yêu, vợ, quý bà, tiểu thư
+– lake: (n)  /leɪk/  hồ
+– land: (n, v)   /lænd/  đất, đất canh tác, đất đai
+– language: (n)  /ˈlæŋ.ɡwɪdʒ/    ngôn ngữ
+– large: (adj)   /lɑːdʒ/ rộng, lớn, to
+– last: (det, adv, n, v) /lɑːst/ lầm cuối, sau cùng; người cuối cùng; cuối cùng, rốt hết; kéo dài
+– late: (adj, adv)   /leɪt/  trễ, muộn
+– laugh: (v, n)  /lɑːf/  cười; tiếng cười
+– law: (n)   /lɔː/   luật
+– lay: (v)   /leɪ/   xếp, đặt, bố trí
+– lead: (v, n)   /liːd/  lãnh đạo, dẫn dắt; sự lãnh đạo, sự hướng dẫn
+– learn: (v) /lɜːn/  học, nghiên cứu
+– least: (det, pron, adv)    /liːst/ tối thiểu; ít nhất
+– leave: (v) /liːv/  bỏ đi, rời đi, để lại
+– led: (v)   /led/   lãnh đạo, dẫn dắt; sự lãnh đạo, sự hướng dẫn
+– left: (adj, adv, n)    /left/  bên trái; về phía trái
+– leg: (n)   /leɡ/   chân(người, thú, bàn…)
+– length: (n)    /leŋθ/  chiều dài, độ dài
+– less: (det, pron, adv) /les/   nhỏ bé, ít hơn; số lượng ít hơn
+– let: (v)   /let/   cho phép, để cho
+– letter: (n)    /ˈlet.ər/   thư; chữ cái, mẫu tự
+– level: (n, adj)    /ˈlev.əl/   trình độ, cấp, vị trí; bằng, ngang bằng
+– lie: (v, n)    /laɪ/   nói dối; lời nói dối, sự dối trá
+– life: (n)  /laɪf/  đời, sự sống
+– lift: (v, n)   /lɪft/  giơ lên, nhấc lên; sự nâng, sự nhấc lên
+– light: (n, adj, v) /laɪt/  ánh sáng; nhẹ, nhẹ nhàng; đốt, thắp sáng
+– like: (prep, v, conj)  /laɪk/  giống như; thích; như
+– line: (n)  /laɪn/  dây, đường, tuyến
+– liquid: (n, adj)   /ˈlɪk.wɪd/  chất lỏng; lỏng, êm ái, du dương, không vững
+– list: (n, v)   /lɪst/  danh sách; ghi vào danh sách
+– listen: (v)    /ˈlɪs.ən/   nghe, lắng nghe
+– little: (adj, det, pron, adv)  /ˈlɪt.əl/   nhỏ, bé, chút ít; không nhiều; một chút
+– live: (v)  /lɪv/   sống
+– locate: (v)    /ləʊˈkeɪt/  xác định vị trí, định vị
+– log:   /lɒɡ/   khúc gỗ mới đốn, khúc gỗ mới xẻ
+– lone:  /ləʊn/ (thơ ca) hiu quạnh
+– long: (adj, adv)   /lɒŋ/   dài, xa; lâu
+– look: (v, n)   /lʊk/   nhìn; cái nhìn
+– lost: (adj)    /lɒst/  thua, mất
+– lot: (n)   /lɒt/   thăm, việc rút thăm; sự chọn bằng cách rút thăm
+– loud: (adj, adv)   /laʊd/  to, inh ỏi, ầm ĩ; to, lớn(nói)
+– love: (adj)    /lʌv/   Yêu
+– low: (adj, adv)    /ləʊ/   thấp, bé, lùn
+– machine: (n)   /məˈʃiːn/   máy, máy móc
+– made: (v)  /meɪd/  làm, hoàn thành, thực hiện
+– magnet: (n)    /ˈmæɡ.nət/  nam châm
+– main: (adj)    /meɪn/  chính, chủ yếu, trọng yếu nhất
+– major: (adj)   /ˈmeɪ.dʒər/ lớn, nhiều hơn, trọng đại, chủ yếu
+– make: (v, n)   /meɪk/  làm, chế tạo; sự chế tạo
+– man: (n)   /mæn/   con người; đàn ông
+– many: (det, pron)  /ˈmen.i/    nhiều
+– map: (n)   /mæp/   bản đồ
+– mark: (n, v)   /mɑːk/  dấu, nhãn, nhãn mác; đánh dấu, ghi dấu
+– market: (n)    /ˈmɑː.kɪt/  chợ, thị trường;
+– mass: (n, adj) /mæs/   khối, khối lượng; quần chúng, đại chúng
+– master: (n.)   /ˈmɑː.stər/ chủ, chủ nhân, thầy giáo, thạc sĩ
+– match: (n, v)  /mætʃ/  trận thi đấu, đối thủ, địch thủ; đối chọi, sánh được
+– material: (n, adj) /məˈtɪə.ri.əl/  nguyên vật liệu; vật chất, hữu hình
+– matter: (n, v) /ˈmæt.ər/   chất, vật chất; có ý nghĩa, có tính chất quan trọng
+– may: (n)   /meɪ/   tháng 5
+– me: (pron) /miː/   tôi, tao, tớ
+– mean: (v)  /miːn/  nghĩa, có nghĩa là
+– meant /ment/  khoảng giữa, trung độ, trung gian, trung dung
+– measure: (v, n)    /ˈmeʒ.ər/   đo, đo lường; sự đo lường, đơn vị đo lường;
+– meat: (n)  /miːt/, thịt
+– meet: (v)  /miːt/  gặp, gặp gỡ
+– melody:    /ˈmel.ə.di/ giai điệu
+– men: (n)   /men/   Những người đàn ông
+– metal: (n) /ˈmet.əl/   kim loại
+– method: (n)    /ˈmeθ.əd/   phương pháp, cách thức
+– middle: (n, adj)   /ˈmɪd.l̩/   giữa, ở giữa
+– might: (modal v)   /maɪt/  có thể, có lẽ
+– mile: (n)  /maɪl/  dặm(đo lường)
+– milk: (n)  /mɪlk/  sữa
+– million   /ˈmɪl.jən/  triệu
+– mind: (n, v)   /maɪnd/ tâm trí, tinh thần, trí tuệ; chú ý, để ý, chăm sóc, quan tâm
+– mine: (pron, n)    /maɪn/  của tôi
+– minute: (n)    /ˈmɪn.ɪt/   phút
+– miss: (n)  /mɪs/   cô gái, thiếu nữ
+– mix: (v, n)    /mɪks/  pha, trộn lẫn; sự pha trộn
+– modern: (adj)  /ˈmɒd.ən/   hiện đại, tân tiến
+– molecule:   /ˈmɒl.ɪ.kjuːl/ (hoá học) phân tử
+– moment: (n)    /ˈməʊ.mənt/ chốc, lát
+– money: (n) /ˈmʌn.i/    tiền
+– month: (n) /mʌnθ/  tháng
+– moon: (n)  /muːn/  mặt trăng
+– more: (det, pron, adv) /mɔːr/  hơn, nhiều hơn
+– morning: (n.)  /ˈmɔː.nɪŋ/  buổi sáng
+– most: (det, pron, adv) /məʊst/ lớn nhất, nhiều nhất; nhất, hơn cả
+– mother: (n)    /ˈmʌð.ər/   mẹ
+– motion: (n)    /ˈməʊ.ʃən/  sự chuyển động, sụ di động
+– mount: (v, n)  /maʊnt/ leo, trèo; núi
+– mountain: (n)  /ˈmaʊn.tɪn/ núi
+– mouth: (n) /maʊθ/  miệng
+– move: (v, n)   /muːv/  di chuyển, chuyển động; sự di chuyển, sự chuyển động
+– much: (det, pron, adv) /mʌtʃ/  nhiều, lắm
+– multiply: (v)  /ˈmʌl.tɪ.plaɪ/  nhân lên, làm tăng lên nhiều lần; sinh sôi nảy nở
+– music: (n) /ˈmjuː.zɪk/ nhạc, âm nhạc
+– must: (modal v)    /mʌst/  phải, cần, nên làm
+– my: (det)  /maɪ/   của tôi
+– name: (n, v)   /neɪm/  tên; đặt tên, gọi tên
+– nation: (n)    /ˈneɪ.ʃən/  dân tộc, quốc gia
+– natural: (adj) /ˈnætʃ.ər.əl/  (thuộc) tự nhiên, thiên nhiên
+– nature: (n)    /ˈneɪ.tʃər/ tự nhiên, thiên nhiên
+– near: (adj, adv, prep) /nɪər/  gần, cận; ở gần
+– necessary: (adj)   /ˈnes.ə.ser.i/  cần, cần thiết, thiết yếu
+– neck: (n)  /nek/   cổ
+– need: (v, modal v, n)  /niːd/  cần, đòi hỏi; sự cần
+– neighbor: (n)  /ˈneɪ.bər/  Hàng xóm
+– never: (adv)   /ˈnev.ər/   không bao giờ, không khi nào
+– new: (adj) /njuː/  mới, mới mẻ, mới lạ
+– next: (adj, adv, n)    /nekst/ sát, gần, bên cạnh; lần sau, tiếp nữa
+– night: (n) /naɪt/  đêm, tối
+– nine:  /naɪn/  chín
+– no: (det)  /nəʊ/   không
+– noise: (n) /nɔɪz/  tiếng ồn, sự huyên náo
+– noon: (n)  /nuːn/  trưa, buổi trưa
+– nor: (conj, adv)   /nɔːr/  cũng không
+– north: (n, adj, adv)   /nɔːθ/  phía bắc, phương bắc
+– nose: (n)  /nəʊz/  mũi
+– note: (n, v)   /nəʊt/  lời ghi, lời ghi chép; ghi chú, ghi chép
+– nothing: (pron)    /ˈnʌθ.ɪŋ/   không gì, không cái gì
+– notice: (n, v) /ˈnəʊ.tɪs/  thông báo, yết thị; chú ý, để ý, nhận biết
+– noun: (ngôn ngữ học)   /naʊn/  danh từ
+– now: (adv) /naʊ/   bây giờ, hiện giờ, hiện nay
+– number: (n)    /ˈnʌm.bər/  số
+-numeral: (thuộc)    /ˈnjuː.mə.rəl/  số
+– object : (n, v)    /ˈɒb.dʒɪkt/ vật, vật thể; phản đối, chống lại
+– observe: (v)   /əbˈzɜːv/   quan sát, theo dõi
+– occur: (v) /əˈkɜːr/    xảy ra, xảy đến, xuất hiện
+– ocean: (n) /ˈəʊ.ʃən/   đại dương
+– of: (prep) /əv/    của
+– off: (adv, prep)   /ɒf/    tắt; khỏi, cách, rời
+– offer: (v, n)  /ˈɒf.ər/    biếu, tặng, cho; sự trả giá
+– office: (n)    /ˈɒf.ɪs/    cơ quan, văn phòng, bộ
+– often: (adv)   /ˈɒf.ən/    thường, hay, luôn
+– oh: (exclamation)  /əʊ/    chao, ôi chao, chà, này..
+– oil: (n)   /ɔɪl/   dầu
+– old: (adj) /əʊld/  già
+– on: (prep, adv)    /ɒn/    trên, ở trên; tiếp tục, tiếp diễn
+– once: (adv, conj)  /wʌns/  một lần; khi mà, ngay khi, một khi
+– one: (number, det, pron)   /wʌn/   một; một người, một vật nào đó
+– only: (adj, adv)   /ˈəʊn.li/   chỉ có 1, duy nhất; chỉ, mới
+– open: (adj, v) /ˈəʊ.pən/   mở, ngỏ; mở, bắt đầu, khai mạc
+– operate: (v)   /ˈɒp.ər.eɪt/    hoạt động, điều khiển
+– opposite: (adj, adv, n, prep)  /ˈɒp.ə.zɪt/ đối nhau, ngược nhau; trước mặt, đối diện; điều trái ngược
+– or:    /ɔːr/   vàng: (ở huy hiệu)
+– order: (n, v)  /ˈɔː.dər/   thứ, bậc; ra lệnh
+– organ: (n) /ˈɔː.ɡən/   đàn óoc gan
+– original: (adj, n) /əˈrɪdʒ.ɪ.nəl/ (thuộc) gốc, nguồn gốc, căn nguyên; nguyên bản
+– other: (adj, pron) /ˈʌð.ər/    khác
+– our: (det) /aʊər/  của chúng ta, thuộc chúng ta, của chúng tôi, của chúng mình
+– out: (adv) /aʊt/   ngoài, ở ngoài, ra ngoài
+– over: (adv, prep)  /ˈəʊ.vər/   bên trên, vượt qua; lên, lên trên
+– own: (adj, pron, v)    /əʊn/   của chính mình, tự mình; nhận, nhìn nhận
+– oxygen: (hoá học)  /ˈɒk.sɪ.dʒən/   Oxy
+– page: (n (abbr p)) /peɪdʒ/ trang(sách)
+– paint: (n, v)  /peɪnt/ sơn, vôi màu; sơn, quét sơn
+– pair: (n)  /peər/  đôi, cặp
+– paper: (n) /ˈpeɪ.pər/  giấy
+– paragraph: (n) /ˈpær.ə.ɡrɑːf/  đoạn văn
+– parent: (n)    /ˈpeə.rənt/ cha, mẹ
+– part: (n)  /pɑːt/  phần, bộ phận
+– particular: (adj)  /pəˈtɪk.jʊ.lər/ riêng biệt, cá biệt
+– party: (n) /ˈpɑː.ti/   tiệc, buổi liên hoan; đảng
+– pass: (v)  /pɑːs/  qua, vượt qua, ngang qua
+– past: (adj, n, prep, adv)  /pɑːst/ quá khứ, dĩ vãng; quá, qua
+– path: (n)  /pɑːθ/  đường mòn; hướng đi
+– pattern: (n)   /ˈpæt.ən/   mẫu, khuôn mẫu
+– pay: (v, n)    /peɪ/   trả, thanh toán, nộp; tiền lương
+– people: (n)    /ˈpiː.pl̩/  dân tộc, dòng giống; người
+– perhaps: (adv) /pəˈhæps/   có thể, có lẽ
+– period: (n)    /ˈpɪə.ri.əd/    kỳ, thời kỳ, thời gian; thời đại
+– person: (n)    /ˈpɜː.sən/  con người, người
+– phrase: (n)    /freɪz/ câu; thành ngữ, cụm từ
+– pick: (v)  /pɪk/   cuốc (đất); đào, khoét(lỗ)
+– picture: (n)   /ˈpɪk.tʃər/ bức vẽ, bức họa
+– piece: (n) /piːs/  mảnh, mẩu; đồng tiền
+– pitch: (n) /pɪtʃ/  sân (chơi các môn thể thao); đầu hắc ín
+– place: (n, v)  /pleɪs/ nơi, địa điểm; quảng trường
+– plain: (adj)   /pleɪn/ ngay thẳng, đơn giản, chất phác
+– plan: (n, v)   /plæn/  bản đồ, kế hoạch; vẽ bản đồ, lập kế hoạch, dự kiến
+– plane: (n) /pleɪn/ mặt phẳng, mặt bằng
+– planet: (n)    /ˈplæn.ɪt/  hành tinh
+– plant: (n, v)  /plɑːnt/    thực vật, sự mọc lên; trồng, gieo
+– play: (v, n)   /pleɪ/  chơi, đánh; sự vui chơi, trò chơi, trận đấu
+– please: (v)    /pliːz/ làm vui lòng, vừa lòng, mong… vui lòng, xin mời
+– plural: (ngôn ngữ học) /ˈplʊə.rəl/ ở số nhiều,(thuộc) số nhiều
+– poem: (n)  /ˈpəʊ.ɪm/   bài thơ
+– point: (n, v)  /pɔɪnt/ point mũi nhọn, điểm; vót, làm nhọn, chấm(câu..)
+– poor: (adj)    /pɔːr/  nghèo
+– popular: (adj) /ˈpɒp.jʊ.lər/   có tính đại chúng,(thuộc) nhân dân; được nhiều người ưa chuộng
+– populate: (np) /ˈpɒp.jʊ.leɪt/  ở, cư trú(một vùng)
+– port: (n)  /pɔːt/  cảng
+– pose: (v, n)   /pəʊz/  đưa ra, đề ra, đặt; sự đặt, đề ra
+– position: (n)  /pəˈzɪʃ.ən/ vị trí, chỗ
+– possible: (adj)    /ˈpɒs.ə.bl̩/    có thể, có thể thực hiện
+– post: (n, v)   /pəʊst/ thư, bưu kiện; gửi thư
+– pound: (n) /paʊnd/ pao – đơn vị đo lường
+– power: (n) /paʊər/ khả năng, tài năng, năng lực; sức mạnh, nội lực; quyền lực
+– practice: (n)  /ˈpræk.tɪs/ thực hành, thực tiễn
+– prepare: (v)   /prɪˈpeər/  sửa soạn, chuẩn bị
+– present: (adj, n, v)   /ˈprez.ənt/ có mặt, hiện diện; hiện nay, hiện thời; bày tỏ, giới thiệu, trình bày
+– press: (n, v)  /pres/  sự ép, sự nén, sự ấn; ép, nén, bóp, ấn
+– pretty: (adv, adj) /ˈprɪt.i/   khá, vừa phải; xinh, xinh xắn; đẹp
+– print: (v, n)  /prɪnt/ in, xuất bản; sự in ra
+– probable: (adj)    /ˈprɒb.ə.bl̩/   có thể, có khả năng
+– problem: (n)   /ˈprɒb.ləm/ vấn đề, điều khó giải quyết
+– process: (n, v)    /ˈprəʊ.ses/ quá trình, sự tiến triển, quy trình; chế biến, gia công, xử lý
+– produce: (v)   /prəˈdjuːs/ sản xuất, chế tạo
+– product: (n)   /ˈprɒd.ʌkt/ sản phẩm
+– proper: (adj)  /ˈprɒp.ər/  đúng, thích đáng, thích hợp
+– property: (n)  /ˈprɒp.ə.ti/    tài sản, của cải; đất đai, nhà cửa, bất động sản
+– protect: (v)   /prəˈtekt/  bảo vệ, che chở
+– prove: (v) /pruːv/ chứng tỏ, chứng minh
+– provide: (v)   /prəˈvaɪd/  chuẩn bị đầy đủ, dự phòng; cung cấp, chu cấp
+– pull: (v, n)   /pʊl/   lôi, kéo, giật; sự lôi kéo, sự giật
+– push: (v, n)   /pʊʃ/   xô đẩy; sự xô đẩy
+– put: (v)   /pʊt/   đặt, để, cho vào
+– quart: /kwɔːt/ góc tư galông, lít Anh(bằng 1, 135 lít)
+– question: (n, v)   /ˈkwes.tʃən/    câu hỏi; hỏi, chất vấn
+– quick: (adj)   /kwɪk/  nhanh
+– quiet: (adj)   /kwaɪət/    lặng, yên lặng, yên tĩnh
+– quite: (adv)   /kwaɪt/ hoàn toàn, hầu hết
+– quotient:  /ˈkwəʊ.ʃənt/   (toán học) số thương
+– race: (n, v)   /reɪs/  loài, chủng, giống; cuộc đua; đua
+– radio: (n) /ˈreɪ.di.əʊ/    sóng vô tuyến, radio
+– rail: (n)  /reɪl/  đường ray
+– rain: (n, v)   /reɪn/  mưa, cơn mưa; mưa
+– raise: (v) /reɪz/  nâng lên, đưa lên, ngẩng lên
+– ran: (v)   /ræn/   Chạy
+– range: (n) /reɪndʒ/    dãy, hàng, loại; phạm vi, trình độ
+– rather: (adv)  /ˈrɑː.ðər/  thà.. còn hơn, thích… hơn
+– reach: (v) /riːtʃ/ đến, đi đến, tới
+– read: (v)  /riːd/  đọc
+– ready: (adj)   /ˈred.i/    sẵn sàng
+– real: (adj)    /rɪəl/  thực, thực tế, có thật
+– reason: (n)    /ˈriː.zən/  lý do, lý lẽ
+– receive: (v)   /rɪˈsiːv/   nhận, lĩnh, thu
+– record: (n, v) /rɪˈkɔːd/   bản ghi, sự ghi, bản thu, sự thu; thu, ghi chép
+– red: (adj, n)  /red/   đỏ; màu đỏ
+– region: (n)    /ˈriː.dʒən/ vùng, miền
+– remember: (v)  /rɪˈmem.bər/    nhớ, nhớ lại
+– repeat: (v)    /rɪˈpiːt/   nhắc lại, lặp lại
+– reply: (n, v)  /rɪˈplaɪ/   sự trả lời, sự hồi âm; trả lời, hồi âm
+– represent: (v) /ˌrep.rɪˈzent/  miêu tả, hình dung; đại diện, thay mặt
+– require: (v)   /rɪˈkwaɪər/ đòi hỏi, yêu cầu, quy định
+– rest: (n, v)   /rest/  sự nghỉ ngơi, lúc nghỉ; nghỉ, nghỉ ngơi
+– result: (n, v) /rɪˈzʌlt/   kết quả; bởi, do.. mà ra, kết quả là…
+– rich: (adj)    /rɪtʃ/  giàu, giàu có
+– ride: (v, n)   /raɪd/  đi, cưỡi(ngựa); sự đi, đường đi
+– right: (adj, adv, n)   /raɪt/  thẳng, phải, tốt; ngay, đúng; điều thiện, điều phải, tốt, bên phải
+– ring: (n, v)   /rɪŋ/   chiếc nhẫn, đeo nhẫn cho ai
+– rise: (n, v)   /raɪz/  sự lên, sự tăng lương, thăng cấp; dậy, đứng lên, mọc(mặt trời), thành đạt
+– river: (n) /ˈrɪv.ər/   sông
+– road: (n)  /rəʊd/  con đường, đường phố
+– rock: (n)  /rɒk/   đá
+– roll: (n, v)   /rəʊl/  cuốn, cuộn, sự lăn tròn; lăn, cuốn, quấn, cuộn
+– room: (n)  /ruːm/  phòng, buồng
+– root: (n)  /ruːt/  gốc, rễ
+– rope: (n)  /rəʊp/  dây cáp, dây thừng, xâu, chuỗi
+– rose: (n)  /rəʊz/  hoa hồng; cây hoa hồng
+– round: (adj, adv, prep, n) /raʊnd/ tròn, vòng quanh, xung quanh
+– row: (n)   /rəʊ/   hàng, dây
+– rub: (v)   /rʌb/   cọ xát, xoa bóp, nghiền, tán
+– rule: (n, v)   /ruːl/  quy tắc, điều lệ, luật lệ; cai trị, chỉ huy, điều khiển
+– run: (v, n)    /rʌn/   chạy; sự chạy
+– safe: (adj)    /seɪf/  an toàn, chắc chắn, đáng tin
+– said: (v)  /sed/   nói
+– sail: (v, n)   /seɪl/  đi tàu, thuyền, nhổ neo; buồm, cánh buồm, chuyến đi bằng thuyền buồm
+– salt: (n)  /sɒlt/  muối
+– same: (adj, pron)  /seɪm/  đều đều, đơn điệu; cũng như thế, vẫn cái đó
+– sand: (n)  /sænd/  cát
+– sat: (v)   /sæt/   ngồi
+– save: (v)  /seɪv/  cứu, lưu
+– saw: (v)   /sɔː/   nhìn
+– say: (v)   /seɪ/   nói
+– scale: (n) /skeɪl/ vảy(cá..)
+– school: (n)    /skuːl/ Trường học
+– science: (n)   /saɪəns/    khoa học, khoa học tự nhiên
+– score: (n, v)  /skɔːr/ điểm số, bản thắng, tỷ số; đạt được, thành công, cho điểm
+– sea: (n)   /siː/   biển
+– search: (n, v) /sɜːtʃ/ sự tìm kiếm, sự thăm dò, sự điều tra; tìm kiếm, thăm dò, điều tra
+– season: (n)    /ˈsiː.zən/  mùa
+– seat: (n)  /siːt/  ghế, chỗ ngồi
+– second: (det, adv, n)  /ˈsek.ənd/  thứ hai, ở vị trí thứ 2, thứ nhì; người về nhì
+– section: (n)   /ˈsek.ʃən/  mục, phần
+– see: (v)   /siː/   nhìn, nhìn thấy, quan sát
+– seed: (n)  /siːd/  hạt, hạt giống
+– seem:  /siːm/  có vẻ như, dường như, coi bộ
+– segment: (n)   /ˈseɡ.mənt/ đoạn, khúc, đốt, miếng;
+– select: (v)    /sɪˈlekt/   chọn lựa, chọn lọc
+– self: (n)  /self/  bản thân mình
+– sell: (v)  /sel/   bán
+– send: (v)  /send/  gửi, phái đi
+– sense: (n) /sens/  giác quan, tri giác, cảm giác
+– sent: (v)  /sent/  gửi, sai, phái, cho đi((cũng) scend)
+– sentence: (n)  /ˈsen.təns/ câu
+– separate: (adj, v) /ˈsep.ər.ət/    khác nhau, riêng biệt; làm rời, tách ra, chia tay
+– serve: (v) /sɜːv/  phục vụ, phụng sự
+– set: (n, v)    /set/   bộ, bọn, đám, lũ; đặt để, bố trí
+– settle: (v)    /ˈset.l̩/   giải quyết, dàn xếp, hòa giải, đặt, bố trí
+– seven: /ˈsev.ən/   bảy
+– several: (det, pron)   /ˈsev.ər.əl/    vài
+– shall: (modal v)   /ʃæl/   dự đoán tương lai sẽ
+– shape: (n, v)  /ʃeɪp/  hình, hình dạng, hình thù
+– share: (v, n)  /ʃeər/  đóng góp, tham gia, chia sẻ; phần đóng góp, phần tham gia, phần chia sẻ
+– sharp: (adj)   /ʃɑːp/  sắc, nhọn, bén
+– she: (pron)    /ʃiː/   nó, bà ấy, chị ấy, cô ấy…
+– sheet: (n) /ʃiːt/  chăn, khăn trải giường; lá, tấm, phiến, tờ
+– shell: (n) /ʃel/   vỏ, mai; vẻ bề ngoài
+– shine: (v) /ʃaɪn/  chiếu sáng, tỏa sáng
+– ship: (n)  /ʃɪp/   tàu, tàu thủy
+– shoe: (n)  /ʃuː/   giày
+– shop: (n, v)   /ʃɒp/   cửa hàng; đi mua hầng, đi chợ
+– shore: (n) /ʃɔːr/  bờ (biển, hồ lớn), bờ biển
+– short: (adj)   /ʃɔːt/  ngắn, cụt
+– should: (modal v)  /ʃʊd/   nên
+– shoulder: (n)  /ˈʃəʊl.dər/ vai
+– shout: (v, n)  /ʃaʊt/  hò hét, reo hò; sự la hét, sự hò reo
+– show: (v, n)   /ʃəʊ/   biểu diễn, trưng bày; sự biểu diễn, sự bày tỏ
+– side: (n)  /saɪd/  mặt, mặt phẳng
+– sight: (n) /saɪt/  cảnh đẹp; sự nhìn
+– sign: (n, v)   /saɪn/  dấu, dấu hiệu, kí hiệu đánh dấu, viết ký hiệu
+– silent: (adj)  /ˈsaɪ.lənt/ im lặng, yên tĩnh
+– silver: (n, adj)   /ˈsɪl.vər/  bạc, đồng bạc; làm bằng bạc, trắng như bạc
+– similar: (adj) /ˈsɪm.ɪ.lər/    giống như, tương tự như
+– simple: (adj)  /ˈsɪm.pl̩/  đơn, đơn giản, dễ dàng
+– since: (prep, conj, adv)   /sɪns/  từ, từ khi; từ khi, từ lúc đó; từ đó, từ lúc ấy
+– sing: (v)  /sɪŋ/   hát, ca hát
+– single: (adj)  /ˈsɪŋ.ɡl̩/  đơn, đơn độc, đơn lẻ
+– sister: (n)    /ˈsɪs.tər/  chị, em gái
+– sit: (v)   /sɪt/   ngồi
+– six:   /sɪks/  sáu
+– size: (n)  /saɪz/  cỡ
+– skill: (n) /skɪl/  kỹ năng, kỹ sảo
+– skin: (n)  /skɪn/  da, vỏ
+– sky: (n)   /skaɪ/  trời, bầu trời
+– slave: (n) /sleɪv/ người nô lệ (đen & bóng)
+– sleep: (v, n)  /sliːp/ ngủ; giấc ngủ
+– slip: (v)  /slɪp/  trượt, tuột, trôi qua, chạy qua
+– slow: (adj)    /sləʊ/  chậm, chậm chạp
+– small: (adj)   /smɔːl/ nhỏ, bé
+– smell: (v, n)  /smel/  ngửi; sự ngửi, khứu giác
+– smile: (v, n)  /smaɪl/ cười, mỉm cười; nụ cười, vẻ tươi cười
+– snow: (n, v)   /snəʊ/  tuyết; tuyết rơi
+– so: (adv, conj)    /səʊ/   như vậy, như thế; vì thế, vì vậy, vì thế cho nên
+– soft: (adj)    /sɒft/  mềm, dẻo
+– soil: (n)  /sɔɪl/  đất trồng; vết bẩn
+– soldier: (n)   /ˈsəʊl.dʒər/    lính, quân nhân
+– solution: (n)  /səˈluː.ʃən/    sự giải quyết, giải pháp
+– solve: (v) /sɒlv/  giải, giải thích, giải quyết
+– some: (det, pron)  /sʌm, səm/  một it, một vài
+– son: (n)   /sʌn/   con trai
+– song: (n)  /sɒŋ/   bài hát
+– soon: (adv)    /suːn/  sớm, chẳng bao lâu nữa
+– sound: (n, v)  /saʊnd/ âm thanh; nghe
+– south: (n, adj, adv)   /saʊθ/  phương Nam, hướng Nam; ở phía Nam; hướng về phía Nam
+– space: (n) /speɪs/ khoảng trống, khoảng cách
+– speak: (v) /spiːk/ nói
+– special: (adj) /ˈspeʃ.əl/  đặc biệt, riêng biệt
+– speech: (n)    /spiːtʃ/    sự nói, khả năng nói, lời nói, cách nói, bài nói
+– speed: (n) /spiːd/ tốc độ, vận tốc
+– spell: (v, n)  /spel/  đánh vần; sự thu hút, sự quyến rũ, say mê
+– spend: (v) /spend/ tiêu, xài
+– spoke: (v) /spəʊk/ nói
+– spot: (n)  /spɔt/  dấu, đốm, vết
+– spread: (v)    /spred/ trải, căng ra, bày ra; truyền bá
+– spring: (n)    /sprɪŋ/ mùa xuân
+– square: (adj, n)   /skweər/    vuông, vuông vắn; dạng hình vuông, hình vuông
+– stand: (v, n)  /stænd/ đứng, sự đứng
+– star: (n, v)   /stɑːr/ ngôi sao, dán sao, trang trí hình sao, đánh dấu sao
+– start : (v, n) /stɑːt/ bắt đầu, khởi động; sự bắt đầu, sự khởi đầu, khởi hành
+– state: (n, adj, v) /steɪt/ nhà nước, quốc gia, chính quyền;(thuộc) nhà nước, có liên quan đến nhà nước; phát biểu, tuyên bố
+– station: (n)   /ˈsteɪ.ʃən/ trạm, điểm, đồn
+– stay: (v, n)   /steɪ/  ở lại, lưu lại; sự ở lại, sự lưu lại
+– stead: (n) /sted/  có ích cho ai, có lợi cho ai; sẵn sàng giúp đỡ ai
+– steam: (n) /stiːm/ hơi nước
+– steel: (n) /stiːl/ thép, ngành thép
+– step: (n, v)   /step/  bước; bước, bước đi
+– stick: (v, n)  /stɪk/  đâm, thọc, chọc, cắm, dính; cái gậy, qua củi, cán
+– still: (adv, adj)  /stɪl/  đứng yên; vẫn, vẫn còn
+– stone: (n) /stəʊn/ đá
+– stood: (v) /stʊd/  sự dừng lại, sự đứng lại
+– stop: (v, n)   /stɒp/  dừng, ngừng, nghỉ, thôi; sự dừng, sự ngừng, sự đỗ lại
+– store: (n, v)  /stɔːr/ cửa hàng, kho hàng; tích trữ, cho vào kho
+– story: (n) /ˈstɔː.ri/  chuyện, câu chuyện
+– straight: (adv, adj)   /streɪt/    thẳng, không cong
+– strange: (adj) /streɪndʒ/  xa lạ, chưa quen
+– stream: (n)    /striːm/    dòng suối
+– street: (n)    /striːt/    phố, đườmg phố
+– stretch: (v)   /stretʃ/    căng ra, duỗi ra, kéo dài ra
+– string: (n)    /strɪŋ/ dây, sợi dây
+– strong: (adj)  /strɒŋ/ khỏe, mạnh, bền, vững, chắc chắn
+– student: (n)   /ˈstjuː.dənt/   sinh viên
+– study: (n, v)  /ˈstʌd.i/   sự học tập, sự nghiên cứu; học tập, nghiên cứu
+– subject: (n)   /ˈsʌb.dʒekt/    chủ đề, đề tài; chủ ngữ
+– substance: (n) /ˈsʌb.stəns/    chất liệu; bản chất; nội dung
+– subtract: (toán học)   /səbˈtrækt/ trừ
+– success: (n)   /səkˈses/   sự thành công, sự thành đạt
+– such : (det, pron) /sʌtʃ/  như thế, như vậy, như là
+– sudden: (adj)  /ˈsʌd.ən/   thình lình, đột ngột
+– suffix: (ngôn ngữ học) /ˈsʌf.ɪks/  hậu tố
+– sugar: (n) /ˈʃʊɡ.ər/   đường
+– suggest: (v)   /səˈdʒest/  đề nghị, đề xuất; gợi
+– suit: (n, v)   /suːt/  bộ com lê, trang phục; thích hợp, quen, hợp với
+– summer: (n)    /ˈsʌm.ər/   mùa hè
+– sun: (n)   /sʌn/   mặt trời
+– supply: (n, v) /səˈplaɪ/   sự cung cấp, nguồn cung cấp; cung cấp, đáp ứng, tiếp tế
+– support: (n, v)    /səˈpɔːt/   sự chống đỡ, sự ủng hộ; chống đỡ, ủng hộ
+– sure: (adj, adv)   /ʃɔːr/  chắc chắn, xác thực
+– surface: (n)   /ˈsɜː.fɪs/  mặt, bề mặt
+– surprise: (n, v)   /səˈpraɪz/  sự ngạc nhiên, sự bất ngờ; làm ngạc nhiên, gây bất ngờ
+– swim: (v)  /swɪm/  bơi lội
+– syllable: (n)  /ˈsɪl.ə.bl̩/    âm tiết
+– symbol: (n)    /ˈsɪm.bəl/  biểu tượng, ký hiệu
+– system: (n)    /ˈsɪs.təm/  hệ thống, chế độ
+– table: (n) /ˈteɪ.bl̩/  cái bàn
+– tail: (n)  /teɪl/  đuôi, đoạn cuối
+– take: (v)  /teɪk/  /teɪk/
+– talk: (v, n)   /tɔːk/  nói chuyện, trò chuyện; cuộc trò chuyện, cuộc thảo luận
+– tall: (adj)    /tɔːl/  cao
+– teach: (v) /tiːtʃ/ dạy
+– team: (n)  /tiːm/  đội, nhóm
+– teeth: /tiːθ/  răng
+– tell: (v)  /tel/   nói, nói với
+– temperature: (n)   /ˈtem.prə.tʃər/ nhiệt độ
+– ten:   /ten/   mười, chục
+– term: (n)  /tɜːm/  giới hạn, kỳ hạn, khóa, kỳ học
+– test: (n, v)   /test/  bài kiểm tra, sự thử nghiệm, xét nghiệm; kiểm tra, xét nghiệm, thử nghiệm
+– than: (prep, conj) /ðæn/   hơn
+– thank: (v) /θæŋk/  cám ơn
+– that: (det, pron, conj)    /ðæt/   người ấy, đó, vật ấy, đó; rằng, là
+– the: (art) /ðiː/   cái, con, người…
+– their: (det)   /ðeər/  của chúng, của chúng nó, của họ
+– them: (pron)   /ðem/   chúng, chúng nó, họ
+– then: (adv)    /ðen/   khi đó, lúc đó, tiếp đó
+– there: (adv)   /ðeər/  ở nơi đó, tại nơi đó
+– these: /ðiːz/  này
+– they: (pron)   /ðeɪ/   chúng, chúng nó, họ; những cái ấy
+– thick: (adj)   /θɪk/   dày; đậm
+– thin: (adj)    /θɪn/   mỏng, mảnh
+– thing: (n) /θɪŋ/   cái, đồ, vật
+– think: (v) /θɪŋk/  nghĩ, suy nghĩ
+– third: /θɜːd/  thứ ba
+– this: (det, pron)  /ðɪs/   cái này, điều này, việc này
+– those: /ðəʊz/  Những, cái đó
+– though: (conj, adv)    /ðəʊ/   dù, dù cho, mặc dù; mặc dù, tuy nhiên, tuy vậy
+– thought: (n)   /θɔːt/  sự suy nghĩ, khả năng suy nghĩ; ý nghĩ, tư tưởng, tư duy
+– thousand:   /ˈθaʊ.zənd/ nghìn
+– three:  /θriː/  ba
+– through: (prep, adv)   /θruː/  qua, xuyên qua
+– throw: (v) /θrəʊ/  ném, vứt, quăng
+– thus: (adv)    /ðʌs/   như vậy, như thế, do đó
+– tie: (v, n)    /taɪ/   buộc, cột, trói; dây buộc, daay trói, dây giày
+– time: (n)  /taɪm/  thời gian, thì giờ
+– tiny: (adj)    /ˈtaɪ.ni/   rất nhỏ, nhỏ xíu
+– tire: (v)  /taɪər/ làm mệt mỏi, trở nên mệt nhọc; lốp, vỏ xe
+– to: (prep) /tuː/   theo hướng, tới
+– together: (adv)    /təˈɡeð.ər/ cùng nhau, cùng với
+– told: (v)  /təʊld/ nói, nói với, nói lên, nói ra
+– tone: (n)  /təʊn/  tiếng, giọng
+– too: (adv) /tuː/   cũng
+– took: (n)  /tʊk/   sự cầm, sự nắm, sự lấy
+– tool: (n)  /tuːl/  dụng cụ, đồ dùng
+– top: (n, adj)  /tɒp/   chóp, đỉnh; đứng đầu, trên hết
+– total: (adj, n)    /ˈtəʊ.təl/  tổng cộng, toàn bộ; tổng số, toàn bộ số lượng
+– touch: (v, n)  /tʌtʃ/  sờ, mó, tiếp xúc; sự sờ, sự mó, sự tiếp xúc
+– toward: (từ cổ,nghĩa cổ)   /təˈwɔ:dz/  dễ bảo, dễ dạy, ngoan
+– town: (n)  /taʊn/  thị trấn, thị xã, thành phố nhỏ
+– track: (n) /træk/  phần của đĩa; đường mòn, đường đua
+– trade: (n, v)  /treɪd/ thương mại, buôn bán; buôn bán, trao đổi
+– train: (n, v)  /treɪn/ xe lửa, tàu hỏa; dạy, rèn luyện, đào tạo
+– travel: (v)    /ˈtræv.əl/  đi lại, đi du lịch, di chuyển; sự đi, những chuyến đi
+– tree: (n)  /triː/  cây
+– triangle: (n)  /ˈtraɪ.æŋ.ɡl̩/  hình tam giác
+– trip: (n, v)   /trɪp/  cuộc dạo chơi, cuộc du ngoạn; đi dạo, du ngoạn
+– trouble: (n)   /ˈtrʌb.l̩/  điều lo lắng, điều muộn phiền
+– truck: (n) /trʌk/  rau quả tươi
+– true: (adj)    /truː/  đúng, thật
+– try: (v)   /traɪ/  thử, cố gắng
+– tube: (n)  /tjuːb/ ống, tuýp
+– turn: (v, n)   /tɜːn/  quay, xoay, vặn; sự quay, vòng quay
+– twenty:    /ˈtwen.ti/  hai mươi
+– two:    /tuː/   hai, đôi
+– type: (n, v)   /taɪp/  loại, kiểu, mẫu; phân loại, xếp loại
+– under: (prep, adv) /ˈʌn.dər/   dưới, ở dưới; ở phía dưới, về phía dưới
+– unit: (n)  /ˈjuː.nɪt/  đơn vị
+– until: (conj, prep)    /ənˈtɪl/    trước khi, cho đến khi
+– up: (adv, prep)    /ʌp/    ở trên, lên trên, lên
+– us: (pron) /ʌs/    chúng tôi, chúng ta; tôi và anh
+– use: (v, n)    /juːz/  sử dụng, dùng; sự dùng, sự sử dụng
+– usual: (adj)   /ˈjuː.ʒu.əl/    thông thường, thường dùng
+– valley: (n)    /ˈvæl.i/    thung lũng
+– value: (n, v)  /ˈvæl.juː/  giá trị, ước tính, định giá
+– vary: (v)  /ˈveə.ri/   thay đổi, làm cho khác nhau, biến đổi
+– verb: (ngôn ngữ học)   /vɜːb/  động từ
+– very: (adv)    /ˈver.i/    rất, lắm
+– view: (n, v)   /vjuː/  sự nhìn, tầm nhìn; nhìn thấy, xem, quan sát
+– village: (n)   /ˈvɪl.ɪdʒ/  làng, xã
+– visit: (v, n)  /ˈvɪz.ɪt/   đi thăm hỏi, đến chơi, tham quan; sự đi thăm, sự thăm viếng
+– voice: (n) /vɔɪs/  tiếng, giọng nói
+– vowel: (ngôn ngữ học)  /vaʊəl/ nguyên âm
+– wait: (v)  /weɪt/  chờ đợi
+– walk: (v, n)   /wɔːk/  đi, đi bộ; sự đi bộ, sự đi dạo
+– wall: (n)  /wɔːl/  tường, vách
+– want: (v)  /wɒnt/  muốn
+– war: (n)   /wɔːr/  chiến tranh
+– warm: (adj, v) /wɔːm/  ấm, ấm áp; làm cho nóng, hâm nóng
+– was:    /wɒz/   thì, là
+– wash: (v)  /wɒʃ/   rửa, giặt
+– watch: (v, n)  /wɒtʃ/  nhìn, theo dõi, quan sát; sự canh gác, sự canh phòng
+– water: (n) /ˈwɔː.tər/  nước
+– wave: (n)  /weɪv/  sóng, gợn nước; gợn sóng, uốn thành sóng
+– way: (n)   /ˈweɪ/  đường, đường đi
+– we: (pron) /wiː/   chúng tôi, chúng ta
+– wear: (v)  /weər/  mặc, mang, đeo
+– weather: (n)   /ˈweð.ər/   thời tiết
+– week: (n)  /wiːk/  tuần, tuần lễ
+– weight: (n)    /weɪt/  trọng lượng
+– well: (adv, adj)   /wel/   tốt, giỏi; ôi, may quá!
+– went: (v)  /went/  đi
+– were:  /wɜːr/  thì, là
+– west: (n, adj, adv)    /west/  phía Tây, theo phía tây, về hướng tây
+– what: (pron, det)  /wɒt/   gì, thế nào
+– wheel: (n) /wiːl/  bánh xe
+– when: (adv, pron, conj)    /wen/   khi, lúc, vào lúc nào
+– where: (adv, conj) /weər/  đâu, ở đâu; nơi mà
+– whether: (conj)    /ˈweð.ər/   có..không; có… chăng; không biết có.. không
+– which : (pron, det)    /wɪtʃ/  nào, bất cứ.. nào; ấy, đó
+– while: (conj, n)   /waɪl/  trong lúc, trong khi; lúc, chốc, lát
+– white: (adj, n)    /waɪt/  trắng; màu trắng
+– who: (pron)    /huː/   ai, người nào, kẻ nào, người như thế nào
+– whole: (adj, n)    /həʊl/  bình an vô sự, không suy suyển, không hư hỏng; toàn bộ, tất cả, toàn thể
+– whose: (det, pron) /huːz/  của ai
+– why: (adv) /waɪ/   tại sao, vì sao
+– wide: (adj)    /waɪd/  rộng, rộng lớn
+– wife: (n)  /waɪf/  vợ
+– wild: (adj)   /waɪld/ dại, hoang
+– will: (modal v, n) /wɪl/   sẽ; ý chí, ý định
+– win: (v)   /wɪn/   chiếm, đọat, thu được
+– wind: (n)  /wɪnd/  gió
+– window: (n)    /ˈwɪn.dəʊ/  cửa sổ
+– wing: (n)  /wɪŋ/   cánh, sự bay, sự cất cánh
+– winter: (n)    /ˈwɪn.tər/  mùa đông
+– wire: (n)  /waɪər/ dây (kim loại)
+– wish: (v, n)   /wɪʃ/   ước, mong muốn; sự mong ước, lòng mong muốn
+– with: (prep)   /wɪð/   với, cùng
+– woman: (n) /ˈwʊm.ən/   đàn bà, phụ nữ
+– women: (n) /ˈwɪm.ɪn/   Những người phụ nữ
+– wonder: (v)    /ˈwʌn.dər/  ngạc nhiên, lấy làm lạ, kinh ngạc
+– won’t: (n) /wəʊnt/ Sẽ không
+– wood: (n)  /wʊd/   gỗ
+– word: (n)  /wɜːd/  từ
+– work: (v, n)   /wɜːk/  làm việc, sự làm việc
+– world: (n) /wɜːld/ thế giới
+– would: (n) /wʊd/   Sẽ
+– write: (v) /raɪt/  viết
+– written: (adj) /ˈrɪt.ən/   viết ra, được thảo ra
+– wrong: (adj, adv)  /rɒŋ/   sai
+– wrote: (v) /rəʊt/  viết
+– yard: (n)  /jɑːd/  Iat, thước Anh (bằng 0, 914 mét), sân
+– year: (n)  /jɪər/  năm
+– yellow: (adj)  /ˈjel.əʊ/   vàng
+– yes:   /jes/   vâng, phải, dạ, được, ừ, có, có chứ
+– yet: (adv) /jet/   còn, hãy còn, còn nữa
+– you: (pron)    /juː/   anh, chị, ông, bà, ngài, ngươi, mày; các anh, các chị, các ông, các bà, các ngài
+– young: (adj)   /jʌŋ/   trẻ, trẻ tuổi, thiếu niên, thanh niên
+– your: (det)    /jɔːr/  của anh, của chị, của ngài, của mày; của các anh, của các chị, của các ngài, của
+

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.web.HTMLEditor?>
+<?import javafx.scene.web.WebView?>
+
+<AnchorPane fx:id="searchPane" prefHeight="675.0" prefWidth="750.0" style="-fx-background-color: #FFFAF0; -fx-background-radius: 25;" stylesheets="@../style/search.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.dictionary.controller.SearchController">
+    <children>
+        <AnchorPane layoutX="-1.0" layoutY="2.0" prefHeight="600.0" prefWidth="230.0" AnchorPane.bottomAnchor="3.0" AnchorPane.leftAnchor="3.0" AnchorPane.topAnchor="-3.0">
+            <children>
+                <HBox layoutY="23.0" prefHeight="30.0" prefWidth="214.0" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="20.0">
+                    <children>
+                        <TextField fx:id="tfSearch" onKeyTyped="#searchAction" prefHeight="30.0" prefWidth="220.0" style="-fx-background-color: #E0EEEE; -fx-background-radius: 5;" />
+                    </children>
+                </HBox>
+                <VBox layoutY="61.0" prefHeight="524.0" prefWidth="214.0" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="61.0">
+                    <children>
+                        <ListView fx:id="wordListView" onKeyTyped="#showDefinition" onMousePressed="#showDefinition" prefHeight="524.0" prefWidth="182.0" style="-fx-background-color: #E0EEEE; -fx-background-radius: 5;" VBox.vgrow="ALWAYS" />
+                    </children>
+                </VBox>
+            </children>
+        </AnchorPane>
+        <AnchorPane layoutX="243.0" layoutY="136.0" prefHeight="565.0" prefWidth="392.0" style="-fx-background-color: #E0EEEE; -fx-background-radius: 30;" AnchorPane.bottomAnchor="18.0" AnchorPane.leftAnchor="243.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="17.0">
+            <children>
+                <HBox layoutX="14.0" layoutY="14.0" prefHeight="30.0" prefWidth="239.0">
+                    <children>
+                        <Label prefHeight="36.0" prefWidth="250.0" text="Nghĩa của từ">
+                            <font>
+                                <Font name="System Bold" size="25.0" />
+                            </font>
+                        </Label>
+                    </children>
+                </HBox>
+                <HBox alignment="CENTER" layoutX="14.0" layoutY="59.0" prefHeight="40.0" prefWidth="103.0">
+                    <children>
+                        <Label alignment="CENTER" text=" Speak " textFill="RED">
+                            <font>
+                                <Font name="System Bold" size="16.0" />
+                            </font>
+                        </Label>
+                        <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="25.0" styleClass="button-audio" />
+                    </children>
+                </HBox>
+                <AnchorPane layoutX="23.0" layoutY="127.0" prefHeight="445.0" prefWidth="376.0" style="-fx-background-color: #FFFAF0; -fx-background-radius: 30;" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="110.0">
+                    <children>
+                  <HTMLEditor htmlText="&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;/body&gt;&lt;/html&gt;" layoutX="-10.0" layoutY="55.0" prefHeight="200.0" prefWidth="506.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+                        <WebView fx:id="definitionView" layoutX="-1.0" prefHeight="445.0" prefWidth="372.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+                    </children>
+                </AnchorPane>
+            <HBox layoutX="282.0" layoutY="55.0" prefHeight="48.0" prefWidth="224.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="55.0">
+               <children>
+                  <Button mnemonicParsing="false" prefHeight="48.0" prefWidth="56.0" style="-fx-background-color: #E0EEEE;" />
+                  <Button mnemonicParsing="false" prefHeight="48.0" prefWidth="56.0" styleClass="button-bookmark" />
+                  <Button mnemonicParsing="false" prefHeight="48.0" prefWidth="56.0" styleClass="button-edit" />
+                  <Button mnemonicParsing="false" onAction="#handleClickDeleteButton" prefHeight="48.0" prefWidth="56.0" styleClass="button-delete" />
+               </children>
+            </HBox>
+            </children>
+        </AnchorPane>
+    </children>
+</AnchorPane>

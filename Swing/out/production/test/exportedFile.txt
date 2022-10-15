@@ -1,0 +1,10 @@
+apple: tao
+orange: cam
+hello: xin chao
+goodbye: xin chao tam biet
+april: thang 4 
+pencil: but chi
+mirror: guong
+calculator: may tinh cam tay
+phone: dien thoai di dong
+laptop: may tinh
